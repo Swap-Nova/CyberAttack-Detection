@@ -1,12 +1,5 @@
-## Cyberattack Detection
-Machine learning based cyberattack detection in network traffic.
-
-## Context
-- This works is part of the subject Security Analytics, 2020 Semester 2, The University of Melbourne.
-- It was a personal assessment (no group project).
-
 ## Files
-- Please take a look to [this report](https://github.com/alexantoniogonzalez2/cyberattack_detection/blob/master/COMP90073%20-%20Assignment%202%20-%20Alex%20Gonza%CC%81lez.pdf).
+- Please take a look to [this report](https://github.com/Swap-Nova/CyberAttack-Detection/blob/main/ANN%20Project%20Work%20Final%20PPT.pptx).
 
 ## Main characteristics
 The tasks of this project were:
