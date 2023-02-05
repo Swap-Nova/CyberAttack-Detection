@@ -18,3 +18,6 @@ The tasks of this project were:
 ## Compatibility
 The libraries needed in this project are specified in the Jupyter Notebook. The most general libraries utilized are:
 - Python: 3.8
+
+## ⚛ Source
+For our project we have used this <a href="https://github.com/alexantoniogonzalez2/cyberattack-detection"> repository </a> as an source for building the report and understanding the subject-matter. Therefore, this repository is just a showcase of the actual project.
